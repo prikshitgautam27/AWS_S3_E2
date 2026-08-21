@@ -4,7 +4,7 @@
 
 ---
 
-## 🏷️ Badges
+##  Badges
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.3%2B-black?style=flat-square&logo=flask)
@@ -18,15 +18,15 @@
 
 The **Cloud-Based File Management System** is a robust, enterprise-grade application that enables users to upload, download, manage, and replicate files securely on AWS cloud infrastructure. Built with Flask and powered by AWS S3 and EC2, this system provides a seamless experience for file management with advanced features like versioning, replication, and authentication.
 
-### 🎯 Why Use This Project?
+###  Why Use This Project?
 
-- ✅ **Scalable Infrastructure**: Leverage AWS to handle unlimited file storage
-- ✅ **High Availability**: Automatic backup and replication across regions
-- ✅ **Security First**: IAM-based authentication and encrypted storage
-- ✅ **Easy Deployment**: Production-ready Flask application on EC2
-- ✅ **User-Friendly Interface**: Intuitive web UI for file management
+-  **Scalable Infrastructure**: Leverage AWS to handle unlimited file storage
+-  **High Availability**: Automatic backup and replication across regions
+-  **Security First**: IAM-based authentication and encrypted storage
+-  **Easy Deployment**: Production-ready Flask application on EC2
+-  **User-Friendly Interface**: Intuitive web UI for file management
 
-### ⭐ Key Features
+###  Key Features
 
 | Feature | Description |
 |---------|-------------|
